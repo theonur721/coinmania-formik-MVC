@@ -1,7 +1,7 @@
 # MVC Login & Coin Listing App
 
 Bu proje **MVC (Model-View-Controller)** mimarisi kullanılarak geliştirilmiş bir **login sistemi** ve **kripto para listeleme uygulamasıdır**.  
-Kullanıcılar giriş yaptıktan sonra CoinGecko API üzerinden kripto paraların güncel verilerini tablo halinde görebilir.
+Kullanıcılar giriş yaptıktan sonra API üzerinden kripto paraların güncel verilerini tablo halinde görebilir.
 
 ---
 
@@ -35,4 +35,5 @@ Kullanıcılar giriş yaptıktan sonra CoinGecko API üzerinden kripto paraları
 ## Ekran Görüntüsü
 
 ![](/public/ekran.gif)
+
 # coinmania-formik-MVC
