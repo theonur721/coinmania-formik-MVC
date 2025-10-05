@@ -35,5 +35,3 @@ Kullanıcılar giriş yaptıktan sonra API üzerinden kripto paraların güncel 
 ## Ekran Görüntüsü
 
 ![](/public/ekran.gif)
-
-# coinmania-formik-MVC
